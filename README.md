@@ -77,7 +77,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=preetkumar07&show_icons=true&count_private=true&hide=contribs&theme=radical" alt="preetkumar07" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://streak-stats.demolab.com/?user=preetkumar07&theme=radical&hide_border=true" alt="preetkumar07" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=preetkumar07&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetkumar07&layout=compact&theme=radical" alt="preetkumar07" />
