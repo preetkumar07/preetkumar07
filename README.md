@@ -74,10 +74,10 @@
 <!-- GitHub Stats -->
 <h3 align="left">GitHub Stats:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=preetkumar07&show_icons=true&count_private=true&hide=contribs&theme=radical" alt="preetkumar07" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=preetkumar07&show_icons=true&count_private=true&hide=contribs&theme=radical&cache_seconds=86400" alt="preetkumar07" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://streak-stats.demolab.com/?user=preetkumar07&theme=radical&hide_border=true" alt="preetkumar07" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=preetkumar07&theme=radical&hide_border=true&fire=DD2727" alt="preetkumar07" />
 </p>
 
 <p>
