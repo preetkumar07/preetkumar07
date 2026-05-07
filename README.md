@@ -96,9 +96,7 @@
 
 <div align="center">
 
-<!-- Stats + Most Used Languages side by side -->
-<img src="https://github-readme-stats.vercel.app/api?username=preetkumar07&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetkumar07&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+
 
 <br/>
 
@@ -151,20 +149,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
 
----
-
-## 🐍 Fun Metrics
-
-<div align="center">
-
-<!-- WakaTime stats — replace YOUR_WAKATIME_USERNAME if you set up WakaTime -->
-<!-- Uncomment the line below once you connect WakaTime to your GitHub -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical&hide_border=true" alt="WakaTime Stats" /> -->
-
-<!-- Metrics overview using metrics.lecoq.io -->
-<img src="https://raw.githubusercontent.com/preetkumar07/preetkumar07/main/github-metrics.svg" alt="Metrics" onerror="this.style.display='none'" />
-
-</div>
 
 ---
 
