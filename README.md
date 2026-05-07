@@ -81,18 +81,12 @@
 
 <div align="center">
 
-<!-- Main Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=preetkumar07&show_icons=true&count_private=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="165" />
 
 <!-- Streak Stats — using the stable vercel deployment -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=preetkumar07&theme=radical&hide_border=true&fire=DD2727" alt="GitHub Streak" height="165" />
 
 </div>
 
-<div align="center">
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetkumar07&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" height="150" />
 
 </div>
 
@@ -105,14 +99,6 @@
 </div>
 
 ---
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://github.com/preetkumar07/preetkumar07/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> 💡 *To enable the snake animation, add a GitHub Actions workflow to your profile repo. See [Platane/snk](https://github.com/Platane/snk) for setup instructions.*
 
 ---
 
